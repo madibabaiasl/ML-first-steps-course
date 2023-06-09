@@ -3,7 +3,7 @@
 """
 Created on Tue Oct 25 03:23:24 2022
 
-@author: samer
+@author: mecharithm
 """
 # Import the necessary libraries
 import os
