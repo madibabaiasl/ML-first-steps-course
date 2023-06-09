@@ -4,6 +4,8 @@
 Created on Mon Oct 24 12:42:02 2022
 
 @author: mecharithm
+you can use this code as long as you mention mecharithm as 
+the main author of this code
 """
 import numpy as np
 import matplotlib.pyplot as plt
