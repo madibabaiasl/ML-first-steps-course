@@ -3,7 +3,7 @@
 """
 Created on Tue Oct 25 04:18:23 2022
 
-@author: samer
+@author: mecharithm
 """
 
 from dog import dataset_collect
