@@ -4,6 +4,8 @@
 Created on Tue Oct 25 04:18:23 2022
 
 @author: mecharithm
+you can use this code as long as you mention mecharithm as 
+the main author of this code
 """
 
 from dog import dataset_collect
